@@ -1,0 +1,13 @@
+.table tr td form input{
+    color:red
+}
+.btn{
+    
+        border-radius: 3px;
+    padding: 7px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 20PX;
+    border-radius: 8px ;
+    cursor: pointer;
+
+}
